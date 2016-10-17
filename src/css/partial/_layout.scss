@@ -1,0 +1,34 @@
+
+// header
+//-----------------------------------------------------
+header {
+	background: url(../images/tumblr_m324n0gD0q1qf2pkdo1_500.gif) no-repeat top center;
+	background-size: contain;
+	width: 100%;
+	height: 281px;
+	padding: 10px;
+    box-sizing: border-box;
+}
+
+@media screen and(min-width: 500px){
+	header{
+		background-size: cover;
+		background-position: center;
+		
+	}
+}
+
+// container
+//-----------------------------------------------------
+.container {
+}
+
+// contents
+//-----------------------------------------------------
+.contents {
+}
+
+// footer
+//-----------------------------------------------------
+.footer {
+}
